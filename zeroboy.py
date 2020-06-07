@@ -70,7 +70,7 @@ ____            _       _   _____      _
 \033[1;96mAuthor  \033[1;93m: \033[1;badal
 \033[1;96mInstagram \033[1;93m: \033[1;shahzaad_11
 \033[1;96mFacebook  \033[1;93m: \033[1; shahzaad
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/priyalovabadal/priya1
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://github.com/priyalovabadal/badal1
 \033[1;91m======================================="""
 
 def tik():
@@ -94,7 +94,7 @@ print  """\033[1;91m=======================================
 \033[1;96mAuthor  \033[1;93m: \033[1;badal
 \033[1;96mInstagram \033[1;93m: \033[1;shahzaad_11
 \033[1;96mFacebook  \033[1;93m: \033[1;92mshahzaad
-\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/priyalovebadal/priya1
+\033[1;96mGithub \033[1;93m: \033[1;92mhttps://Github.com/priyalovebadal/badal1
 \033[1;91m======================================="""
 print " \x1b[1;93m============================================================="
 
